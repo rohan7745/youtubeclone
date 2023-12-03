@@ -1,0 +1,48 @@
+/* General styles */
+body {
+    font-family: 'Inter', sans-serif; /* Use Google Font Inter */
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Set a background color */
+  }
+  
+  header {
+    background-color: #ffffff; /* Header background color */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Header shadow */
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff0000; /* Button background color */
+    color: #ffffff; /* Button text color */
+  }
+  
+  button:hover {
+    background-color: #cc0000; /* Hover state color change */
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  /* Video item style */
+  .video-item {
+    margin-bottom: 10px;
+    padding: 1
+  }
