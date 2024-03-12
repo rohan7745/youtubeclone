@@ -1,0 +1,53 @@
+container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#videoPlayer {
+    margin-bottom: 20px;
+}
+
+#videoPlayer h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#videoStats {
+    margin-bottom: 20px;
+}
+
+#videoStats ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#videoStats li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+#commentsSection {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+.comment {
+    margin-bottom: 10px;
+}
+
+.reply {
+    margin-left: 20px;
+    font-style: italic;
+}
